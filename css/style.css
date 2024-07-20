@@ -165,12 +165,12 @@ main .content .produk .box-produk{
     justify-content: space-between;
     gap: 1rem;
     overflow: hidden;
-    margin-top: 1rem;
+    margin-top: 2rem;
 }
 
 main .content .produk .box-produk .produk-item{
     padding: 2rem;
-    width: 255px;
+    width: 230px;
     border-radius: .6rem;
     align-items: center;
     cursor: pointer;
@@ -239,14 +239,14 @@ main .content .produk-baru .box-produk-baru{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-top: 1.8rem;
+    margin-top: 2rem;
     gap: 1rem;
     justify-content: space-between;
 }
 
 main .content .produk-baru .box-produk-baru .item-produk-baru{
     position: relative;
-    width: 255px;
+    width: 230px;
     height: auto;
     background-color: var(--warna-5);
     border-radius: .5rem;
@@ -384,14 +384,14 @@ main .content .layanan .box-layanan{
     border: 1px solid;
     flex-direction: row;
     justify-content:space-between;
-    margin-top: 1rem;
+    margin-top: 2rem;
     flex-wrap: wrap;
     gap: 1rem;
 }
 
 main .content .layanan .box-layanan .jenis-layanan{
     display: block;
-    width: 256px;
+    width: 230px;
     height: auto;
     border-radius: .5rem;
     background-color:var(--warna-5);
